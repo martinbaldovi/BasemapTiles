@@ -1,6 +1,6 @@
 # BaseMap Plugin for QGIS 4.0
 
-Add popular basemap tiles (OpenStreetMap, Esri Satellite, Google Maps, Google Satellite, Bing Maps, Bing Satellite) to the layer list with one click.
+Add popular basemap tiles (OpenStreetMap, ESRI World Imagery, Street Map, Topographic, Physical, Terrain, Shaded Relief, National Geographic, USA Topo, Reference overlays, Ocean, Hillshade) to the layer list with one click.
 
 ## How to install
 
