@@ -1,0 +1,30 @@
+[general]
+name=BasemapTiles
+description=Add popular basemap tiles (OpenStreetMap, Esri Satellite, Google Maps, Google Satellite, Bing Maps, Bing Satellite) to the layer list with one click.
+about=This plugin adds a toolbar button that presents a menu of six tile basemaps. Clicking any option creates and loads the corresponding XYZ tile layer into the current QGIS project. Works with QGIS 4.0 (Qt6).
+version=1.0.0
+author=Martin Denver G. Baldovi
+email=martin@baldovi.me
+
+# QGIS 4.0 minimum and maximum (Qt6)
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+
+# Plugin is stable
+experimental=False
+deprecated=False
+
+# Tags
+tags=basemap,tiles,osm,esri,google,bing,xyz
+
+# Homepage
+homepage=https://github.com/martinbaldovi/BasemapTiles
+
+# Repository
+repository=https://github.com/martinbaldovi/BasemapTiles
+
+# Changelog
+changelog=Initial release – supports OpenStreetMap, Esri Satellite, Google Maps, Google Satellite, Bing Maps, Bing Satellite (via working public tile URLs).
+
+# Tracker
+tracker=https://github.com/martinbaldovi/BasemapTiles/issues
