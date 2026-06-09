@@ -14,7 +14,7 @@ qgisMaximumVersion=4.99
 experimental=False
 deprecated=False
 
-# Tags (Google and Bing removed)
+# Tags
 tags=basemap,tiles,osm,esri,xyz
 
 # Homepage
