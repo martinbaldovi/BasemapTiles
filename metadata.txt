@@ -24,7 +24,6 @@ homepage=https://github.com/martinbaldovi/BasemapTiles
 repository=https://github.com/martinbaldovi/BasemapTiles
 
 # Changelog
-changelog=Initial release – supports OpenStreetMap, multiple ESRI layers (World Imagery, Street Map, Topographic, Physical, Terrain, Shaded Relief, National Geographic, USA Topo, Reference overlays, Ocean, Hillshade) and Virtual Earth layers (Street Map, Satellite, and Hybrid).
-
+changelog=Initial release – supports OpenStreetMap, multiple ESRI layers (World Imagery, Street Map, Topographic, Physical, Terrain, Shaded Relief, National Geographic, USA Topo, Reference overlays, Ocean, Hillshade).
 # Tracker
 tracker=https://github.com/martinbaldovi/BasemapTiles/issues
